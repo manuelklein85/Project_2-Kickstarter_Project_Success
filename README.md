@@ -2,7 +2,7 @@
 This is the second project that was created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
 
 <b>This repository contains:</b>
-- A Jupyter notebook with the following chapters<br><br>
+- A Jupyter notebook with the following chapters:<br><br>
 &nbsp;&nbsp;&nbsp;1) Importing Python libraries and dataset<br>
 &nbsp;&nbsp;&nbsp;2) Understanding the data<br>
 &nbsp;&nbsp;&nbsp;3) Preparing the data for plotting<br>
