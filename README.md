@@ -1,21 +1,20 @@
 # Project 2: Kickstarter Project Success Predicion
-This is the second project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
+This is the second project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
 
-This repository contains:
-
-- A Jupyter notebook with the following chapters:
-    1. Importing Python libraries and dataset
-    2. Understanding the data
-    3. Preparing the data for plotting
-    4. Plotting
-    5. Data Preparation for ML
-    6. Machine Learning
-    7. Summary
-    8. Future Work
+<b>This repository contains:</b>
+- A Jupyter notebook with the following chapters:<br><br>
+&nbsp;&nbsp;&nbsp;1) Importing Python libraries and dataset:<br>
+&nbsp;&nbsp;&nbsp;2) Understanding the data:<br>
+&nbsp;&nbsp;&nbsp;3) Preparing the data for plotting:<br>
+&nbsp;&nbsp;&nbsp;4) Plotting:<br>
+&nbsp;&nbsp;&nbsp;5) Data Preparation for ML:<br>
+&nbsp;&nbsp;&nbsp;6) Machine Learning:<br>
+&nbsp;&nbsp;&nbsp;7) Summary:<br>
+&nbsp;&nbsp;&nbsp;8) Future Work:<br>
     
-- The business presentation for the management
+- A business presentation for the management
 <br>
-The task to work on was as follows:<br><br>
+<b>The task to work on was as follows:</b><br><br>
 
 In recent years, the range of funding options for projects created by individuals and small companies has expanded considerably. In addition to savings, bank loans, friends & family funding and other traditional options, crowdfunding has become a popular and readily available alternative. 
 
