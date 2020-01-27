@@ -1,5 +1,5 @@
 # Project 2: Kickstarter Project Success Predicion
-This is the second project that was created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
+This is the second project that was created during the Data Science Bootcamp of neuefische Gmbh, Hamburg, Germany<br><br>
 
 <b>This repository contains:</b>
 - A Jupyter notebook with the following chapters:<br><br>
