@@ -1,4 +1,4 @@
-# Project_2_Kickstarter
+# Project 2: Kickstarter Project Success Predicion
 This is the second project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany
 
 This repository contains:
