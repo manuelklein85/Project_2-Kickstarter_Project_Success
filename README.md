@@ -1,16 +1,16 @@
 # Project 2: Kickstarter Project Success Predicion
-This is the second project that was created within the scope of the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
+This is the second project that was created during the Data Science Bootcamp by neuefische Gmbh, Hamburg, Germany<br><br>
 
 <b>This repository contains:</b>
-- A Jupyter notebook with the following chapters:<br><br>
-&nbsp;&nbsp;&nbsp;1) Importing Python libraries and dataset:<br>
-&nbsp;&nbsp;&nbsp;2) Understanding the data:<br>
-&nbsp;&nbsp;&nbsp;3) Preparing the data for plotting:<br>
-&nbsp;&nbsp;&nbsp;4) Plotting:<br>
-&nbsp;&nbsp;&nbsp;5) Data Preparation for ML:<br>
-&nbsp;&nbsp;&nbsp;6) Machine Learning:<br>
-&nbsp;&nbsp;&nbsp;7) Summary:<br>
-&nbsp;&nbsp;&nbsp;8) Future Work:<br>
+- A Jupyter notebook with the following chapters<br><br>
+&nbsp;&nbsp;&nbsp;1) Importing Python libraries and dataset<br>
+&nbsp;&nbsp;&nbsp;2) Understanding the data<br>
+&nbsp;&nbsp;&nbsp;3) Preparing the data for plotting<br>
+&nbsp;&nbsp;&nbsp;4) Plotting<br>
+&nbsp;&nbsp;&nbsp;5) Data Preparation for ML<br>
+&nbsp;&nbsp;&nbsp;6) Machine Learning<br>
+&nbsp;&nbsp;&nbsp;7) Summary<br>
+&nbsp;&nbsp;&nbsp;8) Future Work<br>
     
 - A business presentation for the management
 <br>
